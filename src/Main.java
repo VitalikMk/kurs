@@ -4,7 +4,7 @@ public class Main {
 
     public static void main(String[] args) {
         double i = 10;
-        double n = ++i % 5;
+        double n = ++i % 5; 
         System.out.println(n);
 
         /*double result = 3+10;
